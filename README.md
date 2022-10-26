@@ -3,8 +3,8 @@
 </p> 
 
 <p align = "center" > 
-<a href="#/"><img src = "https://img.shields.io/badge/-###############-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/#/)" /> </a>
-<a href="#"><img src = "https://img.shields.io/badge/-################-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/#/)" /></a>
+<a href="#/"><img src = "https://img.shields.io/badge/-Lucas%20Pagotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pagotto-323004117/)" /> </a>
+<a href="#"><img src = "https://img.shields.io/badge/-pagottolc-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pagottolc/)" /></a>
 </p>
 
 <h2>📃Github Stats</h2>
