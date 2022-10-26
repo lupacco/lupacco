@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align = "center" >
+<a href="https://github.com/DenverCoder1/readme-typing-svg%22%3E<img src="https://readme-typing-svg.herokuapp.com/?lines=✋+Hello+World+!&center=true&title_color=79c0ff%22%3E</a>
+</p> 
 
-<!--
-**lupacco/lupacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center" > 
+<a href="#/"><img src = "https://img.shields.io/badge/-###############-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/#/)" /> </a>
+<a href="#"><img src = "https://img.shields.io/badge/-################-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/#/)" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h2>📃Github Stats</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+<div align="center">
+    <a href="#"><img alt="lupaccos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lupacco&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/></a>
+    <a href="#"><img alt="lupaccos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupacco&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&" height="160"/></a>
+    <br/>
+  </div>
