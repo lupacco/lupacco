@@ -1,3 +1,7 @@
+<p align = "center"  ><img src="https://media3.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif?cid=ecf05e47x5zo9pe8equlm4quiekj3ea3p5vlkc2gyjv8m0p7&rid=giphy.gif&ct=g"/></p> 
+
+<br/>
+
 <p align = "center" >
 <a href="https://github.com/DenverCoder1/readme-typing-svg%22%3E<img src="https://readme-typing-svg.herokuapp.com/?lines=✋+Hello+World+!&center=true&title_color=79c0ff%22%3E</a>
 </p> 
